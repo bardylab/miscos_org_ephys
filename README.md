@@ -96,8 +96,8 @@ For development version, you can set-up a venv using the following example:
 
 **for macos**
 ```
-python3 -m venv miscos_org_ephys 
-source miscos_org_ephys/bin/activate
+python3 -m venv miscos_org_ephys_venv 
+source miscos_org_ephys_venv/bin/activate
 
 pip install -r requirements.txt
 pip install -r requirements_dev.txt
