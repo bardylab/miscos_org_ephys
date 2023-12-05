@@ -8,7 +8,7 @@ Electrophysiology analysis on extracellular recordings from fusion ventral midbr
 
 Optogenetic stimulation was conducted using the open-source device, [Pulse Pal](https://open-ephys.org/pulsepal). Recordings were acquired using the [Open Ephys](https://open-ephys.org/) GUI. 
 
-Please find the published paper in Nature Methods [here]((https://www.nature.com/articles/s41592-023-02080-x#article-info).
+Please find the published paper in Nature Methods [here](https://www.nature.com/articles/s41592-023-02080-x#article-info).
 
 Paper Abstract 
 --------
